@@ -1,93 +1,20 @@
-@font-face {
-    font-family: 'Univers';
-    src: fonts/universnextproregular.ttf format('truetype');
-    font-weight: normal; /* regular */
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Univers';
-    src: fonts/universnextproregularitalic.ttf format('truetype');
-    font-weight: normal; /* regular italic */
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Univers';
-    src: fonts/universnextpromedium.ttf format('truetype');
-    font-weight: 600; /* medium */
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Univers';
-    src: fonts/universnextpromedium.ttf format('truetype');
-    font-weight: 600; /* medium italic */
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Univers';
-    src: fonts/universnextprobold.ttf format('truetype');
-    font-weight: bold; /* bold */
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Univers';
-    src: fonts/universnextprobolditalic.ttf format('truetype');
-    font-weight: bold; /* bold italic*/
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Univers';
-    src: fonts/universnextproblack.ttf format('truetype');
-    font-weight: bolder; /* black */
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Univers';
-    src: fonts/universnextproblackitalic.ttf format('truetype');
-    font-weight: bolder; /* black italic */
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Univers';
-    src: fonts/universnextproextrablackitalic.ttf format('truetype');
-    font-weight: 900; /* extra black italic */
-    font-style: normal;
-}
-
-p1 {
-    font-family: 'Univers', Helvetica, sans-serif; 
-    font-weight: normal; 
+p1 { 
     color: #f0f0f0;
 }
 
-p2 {
-    font-family: 'Univers', Helvetica, sans-serif; 
-    font-weight: 600; 
+p2 { 
     color: #f0f0f0; 
 }
 
 h1 {
-    font-family: 'Univers', Helvetica, sans-serif; 
-    font-weight: 900;  
     color: #f0f0f0;
 }
 
-h2 {
-    font-family: 'Univers', Helvetica, sans-serif; 
-    font-weight: bolder;  
+h2 {  
     color: #f0f0f0;
 }
 
 h3 {
-    font-family: 'Univers', Helvetica, sans-serif; 
-    font-weight: bold;  
     color: #f0f0f0;
 }
 
