@@ -1,6 +1,7 @@
 +++
 date = '2025-11-16'
 title = 'i made a blog'
+summary = 'would that it were so easy....'
 +++
 
 hello! welcome! i made a blog!
