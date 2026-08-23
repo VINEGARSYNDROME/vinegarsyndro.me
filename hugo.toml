@@ -2,7 +2,44 @@ baseURL = 'https://vinegarsyndro.me'
 locale = 'en-au'
 title = 'VINEGARSYNDROME'
 theme = 'vinsyn-archie'
+copyright = "🄯 VINEGARSYNDROME"
+# pygmentsstyle = "monokai"
+# pygmentscodefences = true
+# pygmentscodefencesguesssyntax = true
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
-    
+[params]
+	mode="auto"
+	useCDN=false
+	subtitle = "Camille 'VINEGARSYNDROME' Lane Cicuto."
+
+[[params.social]]
+name = "BlueSky"
+icon = "bluesky"
+url = "https://bsky.app/profile/vinegarsyndro.me"
+
+[[params.social]]
+name = "Twitch"
+icon = "twitch"
+url = "https://twitch.tv/VlNEGARSYNDROME"
+
+[[menu.main]]
+name = "home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "blog"
+url = "/blog"
+weight = 2
+
+[[menu.main]]
+name = "about"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "search"
+url = "/search/"
+weight = 5
