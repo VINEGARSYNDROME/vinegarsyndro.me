@@ -1,0 +1,4 @@
+baseURL = 'https://vinegarsyndro.me'
+locale = 'en-au'
+title = 'VINEGARSYNDROME'
+theme = 'Archie'

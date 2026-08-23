@@ -1,0 +1,3 @@
+[submodule "vinsyn-archie"]
+	path = vinsyn-archie
+	url = https://github.com/VINEGARSYNDROME/vinsyn-archie
