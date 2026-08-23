@@ -1,7 +1,7 @@
 baseURL = 'https://vinegarsyndro.me'
 locale = 'en-au'
 title = 'VINEGARSYNDROME'
-theme = 'Archie'
+theme = 'vinsyn-archie'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
