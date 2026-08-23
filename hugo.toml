@@ -16,7 +16,7 @@ copyright = "🄯 VINEGARSYNDROME"
 
 [[params.social]]
 name = "BlueSky"
-icon = "bluesky"
+icon = "twitter"
 url = "https://bsky.app/profile/vinegarsyndro.me"
 
 [[params.social]]
