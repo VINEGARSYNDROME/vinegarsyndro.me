@@ -21,7 +21,7 @@ copyright = "🄯 VINEGARSYNDROME CC BY-SA 4.0"
 [[params.social]]
 name = "RSS"
 icon = "simple:rss"
-url = "https://vinegarsyndro.me/rss.xml"
+url = "https://www.vinegarsyndro.me/index.xml"
 
 [[params.social]]
 name = "BlueSky"
