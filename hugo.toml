@@ -8,7 +8,7 @@ copyright = "🄯 VINEGARSYNDROME CC BY-SA 4.0"
 # pygmentscodefencesguesssyntax = true
 
 [outputs]
-  blog = ['html', 'rss']
+	blog = ['html', 'rss']
 
 [caches]
   [caches.images]
