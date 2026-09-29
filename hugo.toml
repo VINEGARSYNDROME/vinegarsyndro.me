@@ -1,49 +1,59 @@
-baseURL = "https://vinegarsyndro.me"
-locale = "en-au"
-title = "VINEGARSYNDROME"
-theme = "vinsyn-archie"
+baseURL = 'https://vinegarsyndro.me'
+locale = 'en-au'
+title = 'VINEGARSYNDROME'
+theme = 'vinsyn-archie'
 copyright = "🄯 VINEGARSYNDROME CC BY-SA 4.0"
 # pygmentsstyle = "monokai"
 # pygmentscodefences = true
 # pygmentscodefencesguesssyntax = true
+
 [outputs]
-	blog = ['html', 'rss']
+  blog = ['html', 'rss']
+
 [caches]
-	[caches.images]
-	    dir = ":cacheDir/images"
+  [caches.images]
+    dir = ':cacheDir/images'
 [params]
 	mode="auto"
 	useCDN=false
 	subtitle = "Camille 'VINEGARSYNDROME' Lane Cicuto."
-	[[params.social]]
-		name = "RSS"
-		icon = "rss"
-		url = "https://vinegarsyndro.me/rss.xml"
-	[[params.social]]
-		name = "BlueSky"
-		icon = "bluesky"
-		url = "https://bsky.app/profile/vinegarsyndro.me"
-	[[params.social]]
-		name = "Itch"
-		icon = "itchdotio
-		url = "https://vinegarsyndrome.itch.io"
-	[[params.social]]
-		name = "Twitch"
-		icon = "twitch"
-		url = "https://twitch.tv/VlNEGARSYNDROME"
-	[[menu.main]]
-		name = "home"
-		url = "/"
-		weight = 1
-	[[menu.main]]
-		name = "blog"
-		url = "/blog"
-		weight = 2
-	[[menu.main]]
-		name = "about"
-		url = "/about"
-		weight = 3
-	[[menu.main]]
-		name = "search"
-		url = "/search/"
-		weight = 5
+
+[[params.social]]
+name = "RSS"
+icon = "rss"
+url = "https://vinegarsyndro.me/rss.xml"
+
+[[params.social]]
+name = "BlueSky"
+icon = "bluesky"
+url = "https://bsky.app/profile/vinegarsyndro.me"
+
+[[params.social]]
+name = "Itch"
+icon = "itchdotio
+url = "https://vinegarsyndrome.itch.io"
+
+[[params.social]]
+name = "Twitch"
+icon = "twitch"
+url = "https://twitch.tv/VlNEGARSYNDROME"
+
+[[menu.main]]
+name = "home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "blog"
+url = "/blog"
+weight = 2
+
+[[menu.main]]
+name = "about"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "search"
+url = "/search/"
+weight = 5
