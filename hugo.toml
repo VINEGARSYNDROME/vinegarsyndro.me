@@ -25,12 +25,12 @@ url = "https://vinegarsyndro.me/rss.xml"
 
 [[params.social]]
 name = "BlueSky"
-icon = "si-bluesky"
+icon = "bluesky"
 url = "https://bsky.app/profile/vinegarsyndro.me"
 
 [[params.social]]
 name = "Itch"
-icon = "si-itchdotio"
+icon = "itchdotio"
 url = "https://vinegarsyndrome.itch.io"
 
 [[params.social]]
