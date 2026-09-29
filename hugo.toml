@@ -30,7 +30,7 @@ url = "https://bsky.app/profile/vinegarsyndro.me"
 
 [[params.social]]
 name = "Itch"
-icon = "itchdotio
+icon = "itchdotio"
 url = "https://vinegarsyndrome.itch.io"
 
 [[params.social]]
