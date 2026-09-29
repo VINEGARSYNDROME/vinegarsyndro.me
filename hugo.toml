@@ -8,7 +8,10 @@ copyright = "🄯 VINEGARSYNDROME CC BY-SA 4.0"
 # pygmentscodefencesguesssyntax = true
 
 [outputs]
+	home = ['html']
 	blog = ['html', 'rss']
+	about = ['html']
+	search = ['html']
 
 [caches]
   [caches.images]
