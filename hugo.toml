@@ -20,22 +20,22 @@ copyright = "🄯 VINEGARSYNDROME CC BY-SA 4.0"
 
 [[params.social]]
 name = "RSS"
-icon = "rss"
+icon = "simple:rss"
 url = "https://vinegarsyndro.me/rss.xml"
 
 [[params.social]]
 name = "BlueSky"
-icon = "bluesky"
+icon = "simple:bluesky"
 url = "https://bsky.app/profile/vinegarsyndro.me"
 
 [[params.social]]
 name = "Itch"
-icon = "itchdotio"
+icon = "simple:itchdotio"
 url = "https://vinegarsyndrome.itch.io"
 
 [[params.social]]
 name = "Twitch"
-icon = "twitch"
+icon = "simple:twitch"
 url = "https://twitch.tv/VlNEGARSYNDROME"
 
 [[menu.main]]
