@@ -1,8 +1,8 @@
 ---
 type: blog
-title: "play report: gmless hexcrawl"
+title: "Play Report: GMless Hexcrawl"
 lastmod: 2026-01-22T22:03:00+11:00
-summary: "i ran a hexcrawl with a friend and no referee, it was interesting!"
+summary: "I ran a hexcrawl with a friend and no referee, it was interesting!"
 draft: "false"
 ---
 # how we did it
