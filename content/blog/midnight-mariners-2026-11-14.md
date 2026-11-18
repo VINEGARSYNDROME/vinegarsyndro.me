@@ -6,7 +6,11 @@ lastmod: 2026-11-18
 firstmod: 2026-11-14
 ---
 
-Keratoconus rejoins the Friday Midnight Mariners for the first time in a while after two PCs and a large portion of hirelings went missing after the previous session. We found ourselves in an as-far-as-I-can-tell unnamed ringfort in Hwicce. In today's session, there was Keratoconus, Arita's Cispia (can read and write Latin) and Jon's new character, Ollie (an archer). 
+This post may contain spoilers for _Wolves Upon the Coast_, Tuesday Mariners beware.
+
+---
+
+Keratoconus rejoins the [Robin M. Rondel](https://sadslut.club/)'s Friday Midnight Mariners [_Wolves Upon the Coast_](https://lukegearing.blot.im/wolves-upon-the-coast) game for the first time in a while after two PCs and a large portion of hirelings went missing after the previous session. We found ourselves in an as-far-as-I-can-tell unnamed ringfort in Hwicce. In today's session, there was Keratoconus, Arita's Cispia (can read and write Latin) and [Jon](https://sivadssanctum.carrd.co/)'s new character, Ollie (an archer). 
 
 Last time I played with this group, Keratoconus had boasted that he would kill the giant Thrasir without a weapon, which gave some direction but we still fucked around for about 10 mins at the start of the session, determining that we must have already slaughtered our cow, Luke, before deciding that Old Bessie was next. Robin, your days are numbered. 
 
