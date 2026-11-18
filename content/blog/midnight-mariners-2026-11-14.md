@@ -3,7 +3,6 @@ title: "Play Report: Midnight Mariners 2026-11-14"
 description: God this game is good.
 pubdate: 2026-11-18
 lastmod: 2026-11-18
-tldr: God this game is good.
 firstmod: 2026-11-14
 ---
 
